@@ -72,6 +72,10 @@ nav a {
 	font-weight: 600;
 }
 
+nav a:hover {
+	text-decoration: underline; 
+}
+
 .container header div {
 	display: inline-block;
 	margin: 1%;
